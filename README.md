@@ -37,5 +37,5 @@ September 2023–June 2027 (expected) · GPA: **3.71 / 4.0**
 
 ### Technical Background
 
-**Programming:** Python · C/C++ · Rust · MATLAB · Verilog  
+**Programming:** Python · C/C++ · MATLAB · Verilog  
 **Research & Systems:** PyTorch · CUDA · Metal · Vulkan · 3D Gaussian Splatting · OpenCV · Linux · Git
