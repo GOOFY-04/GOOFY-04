@@ -15,7 +15,7 @@ Summer Research Program · Advised by Prof. Zili Meng · July 2026–present
 Working on remote GPU execution and performance optimization for 3D Gaussian Splatting and cross-platform graphics applications.
 
 **Research Agent Architectures**  
-Independent Research Project · Advised by Prof. Yiyi Liao · April 2026–present  
+Research Project · Advised by Prof. Yiyi Liao · April 2026–present  
 Designing nested feedback loops for iterative self-review and execution-driven repair, with pluggable skills for extending research workflows.
 
 **Efficient 3D Reconstruction**  
